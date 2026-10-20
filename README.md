@@ -1,2 +1,3 @@
 # A-Data-Driven-Framework-for-Identifying-Delayed-Temperature-Transmission-Relationships-in-Influenza
 This repository shows the code and data of article "A Data-Driven Framework for Identifying Delayed Temperature–Transmission Relationships in Influenza"
+Our code is composed of three programming languages, each achieving distinct outcomes. Julia is used to implement the fitting of ILI cases and infection rates using UDE (Universal Differential Equations), as well as symbolic regression. R is employed to perform causal inference with CCM (Convergent Cross Mapping) and the implementation of Bayesian lag analysis. Matlab is utilized for solving ODE models, including model fitting, prediction, and migration.
